@@ -2,8 +2,8 @@
 # Apresentação
 
 <html>
-<body align="center"> 
-
+<body> 
+<center>
 ![img](img/logo.png)
  
 Instituto Superior de Gestão e Administração de Santarém
@@ -21,7 +21,7 @@ Unidade Curricular: Base de Dados I
 Santarém
 
 Ano letivo 2020-2021
-
+</center>
 </body>
 </html>
 
