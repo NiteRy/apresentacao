@@ -1,12 +1,7 @@
 
 # Apresentação
 
-<font align="center">
-
- <table>
- <tr><td>dvdgv
- </table>
- 
+<p align="center">
 
 ![img](img/logo.png)
 
@@ -26,7 +21,7 @@ Santarém
 
 Ano letivo 2020-2021
 
-</font>
+</p>
 
 ---
 ## Índice
