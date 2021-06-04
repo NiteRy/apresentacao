@@ -2,7 +2,7 @@
 # Apresentação
 
 <html>
-<body alogn="center"> 
+<body align="center"> 
 
 ![img](img/logo.png)
  
