@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="img/logo.png"> </p>
  
+<p align="center">
 Instituto Superior de Gestão e Administração de Santarém
 
 TeSP TPSI
@@ -17,8 +18,7 @@ Unidade Curricular: Base de Dados I
 
 Santarém
 
-Ano letivo 2020-2021
-
+Ano letivo 2020-2021 </p>
 </body>
 </html>
 
