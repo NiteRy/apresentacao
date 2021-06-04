@@ -1,26 +1,7 @@
 
 # Apresentação
 
-<p align="center"> <img src="img/logo.png"> </p>
- 
-<p align="center">
-Instituto Superior de Gestão e Administração de Santarém
-
-TeSP TPSI
-
-Base de Dados de uma Empresa de Transportes
-
-Alunos: João Duarte Nº 22006556 e Diogo Chança Nº 22000701
-
-Docente: Prof. Marco Tereso
-
-Unidade Curricular: Base de Dados I
-
-Santarém
-
-Ano letivo 2020-2021 </p>
-</body>
-</html>
+<p align="center"> <img src="img/logo.png"><br>Instituto Superior de Gestão e Administração de Santarém<br>TeSP TPSI<br>Base de Dados de uma Empresa de Transportes<br>Alunos: João Duarte Nº 22006556 e Diogo Chança Nº 22000701<br>Docente: Prof. Marco Tereso<br>Unidade Curricular: Base de Dados I<br>Santarém<br>Ano letivo 2020-2021</p>
 
 ---
 ## Índice
