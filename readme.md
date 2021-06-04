@@ -1,19 +1,7 @@
 
 # Apresentação
 
-<html>
-<head>
-<style>
-body
-{
-    text-align:center;
-}
-</style>
-</head>
-<body> 
-
- 
-![img](img/logo.png)
+<p align="center"> <img src="img/logo.png"> </p>
  
 Instituto Superior de Gestão e Administração de Santarém
 
