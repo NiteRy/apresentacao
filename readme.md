@@ -1,12 +1,11 @@
 
 # Apresentação
 
-<p align="center">
+<html>
+<body alogn="center"> 
 
 ![img](img/logo.png)
  
-</p>
-
 Instituto Superior de Gestão e Administração de Santarém
 
 TeSP TPSI
@@ -23,7 +22,8 @@ Santarém
 
 Ano letivo 2020-2021
 
-</p>
+</body>
+</html>
 
 ---
 ## Índice
