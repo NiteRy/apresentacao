@@ -4,6 +4,8 @@
 <p align="center">
 
 ![img](img/logo.png)
+ 
+</p>
 
 Instituto Superior de Gestão e Administração de Santarém
 
