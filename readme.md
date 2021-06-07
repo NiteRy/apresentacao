@@ -47,25 +47,25 @@ Uma Empresa de Transportes pretende construir uma base de dados, que tem de ter 
 
 funcionario (<ins>codFuncionario</ins>, nome, dataNascimento, nif, rua, numPorta, localidade, codPostal, salario)
 
-motorista (codMotorista, codFuncionario, codCartaCond)
+motorista (<ins>codMotorista, codFuncionario</ins>, codCartaCond)
 
-categoriaCarta (codCategoria, nomeCategoria)
+categoriaCarta (<ins>codCategoria</ins>, nomeCategoria)
 
-validarCarta (codCategoria, codCartaCond, dataValidacao, dataLimite)
+validarCarta (<ins>codCategoria</ins>, <ins>codCartaCond</ins>, dataValidacao, dataLimite)
 
-certificado (codCertificado, descricao)
+certificado (<ins>codCertificado</ins>, descricao)
 
-validarCertificado (codMotorista, codCertificado, dataValidacao)
+validarCertificado (<ins>codMotorista</ins>, <ins>codCertificado</ins>, dataValidacao)
 
-gerente (codGerente, codFuncionario)
+gerente (<ins>codGerente, codFuncionario</ins>)
 
-camiao (numChassis, matricula, marca, modelo, cor, codTipo, pesoBruto)
+camiao (<ins>numChassis</ins>, matricula, marca, modelo, cor, codTipo, pesoBruto)
 
-tipoCamiao (codTipo, descricao)
+tipoCamiao (<ins>codTipo</ins>, descricao)
 
-inspecao (codInspecao, numChassis, codMotorista, dataInspecao, dataValidacao, nomeLocal, localidade)
+inspecao (<ins>codInspecao</ins>, numChassis, codMotorista, dataInspecao, dataValidacao, nomeLocal, localidade)
 
-viagem (idViagem, codMotorista, codGerente, numChassis, dataComeco, dataFinal, numKm, carga, descricao)
+viagem (<ins>idViagem</ins>, codMotorista, codGerente, numChassis, dataComeco, dataFinal, numKm, carga, descricao)
 
 
 ---
