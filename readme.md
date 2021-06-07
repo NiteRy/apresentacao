@@ -45,7 +45,7 @@ Uma Empresa de Transportes pretende construir uma base de dados, que tem de ter 
 
 ### Base de dados em modo escrito
 
-funcionario (<u>codFuncionario</u>, nome, dataNascimento, nif, rua, numPorta, localidade, codPostal, salario)
+funcionario (<ins>codFuncionario</ins>, nome, dataNascimento, nif, rua, numPorta, localidade, codPostal, salario)
 
 motorista (codMotorista, codFuncionario, codCartaCond)
 
